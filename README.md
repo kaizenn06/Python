@@ -1,4 +1,4 @@
-![C++](https://img.shields.io/badge/Language-C++-blue)
+![java](https://img.shields.io/badge/Language-java-blue)
 
 # 🚀 DSA Practice
 

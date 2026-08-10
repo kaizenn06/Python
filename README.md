@@ -1,6 +1,6 @@
-![java](https://img.shields.io/badge/Language-java-blue)
+![python](https://img.shields.io/badge/Language-python-blue)
 
-# 🚀 OOP Practice
+# 🚀 Python Practice
 
 > 📌 Repo lưu bài tập Python tại PTIT
 

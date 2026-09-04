@@ -2,7 +2,7 @@ if __name__ == "__main__" :
     t = int(input())
     for _ in range(t) :
         n = input()
-        ok = True
+        ok = True 
         if len(n) % 2 == 0 or n[0] == n[1]: 
             print("NO")
             continue

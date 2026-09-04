@@ -5,5 +5,6 @@ if __name__ == "__main__" :
     for i in range(n) :
         if st and (st[-1] + a[i]) % 2 == 0 :
             st.pop()
-        else : st.append(a[i])
-    print(len(st))
+        else : 
+            st.append(a[i])
+    print(len(st)) 

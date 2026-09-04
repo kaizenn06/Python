@@ -1,4 +1,4 @@
-from math import gcd
+from math import gcd 
 if __name__ == "__main__" :
     l, r = map(int, input().split())
     for i in range(l, r - 1) :
